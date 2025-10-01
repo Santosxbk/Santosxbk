@@ -26,6 +26,15 @@
 
 ---
 
+### 👨‍💻 Sistemas Operacionais
+
+<p align="left">
+   <img src="https://img.shields.io/badge/Zorin_OS-0052B1?style=for-the-badge&logo=zorin&logoColor=white" />
+   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+</p>
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
