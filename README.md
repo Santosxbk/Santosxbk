@@ -27,7 +27,7 @@
 <br>
 
 <!-- Lain header aesthetic -->
-<div align="center">
+<div align="left">
   <img width="600" src="https://raw.githubusercontent.com/0xk4y/lain-assets/main/lain-wallpaper.gif" alt="Serial Experiments Lain aesthetic"/>
 </div>
 
