@@ -1,13 +1,17 @@
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6a0dad"/>
 
 <br>
 
-<div align="center">
-  <b title="No pain, no gain">`痛みなくして得るものなし`</b>
-  <samp>
-      <br>
-      Hi there! I'm <b>Santosxbk</b>
-  </samp>
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663165499119/AvciHCnBvhkMlYlv.jpg" alt="Serial Experiments Lain" width="100" style="margin-right: 20px;"/>
+  <div>
+    <b title="No pain, no gain">`痛みなくして得るものなし`</b>
+    <samp>
+        <br>
+        Hi there! I'm <b>Santosxbk</b>
+    </samp>
+  </div>
 </div>
 
 <div align="center" width="100%">
@@ -84,10 +88,6 @@
 ##
 
 <br>
-
-<div align="right">
-  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663165499119/AvciHCnBvhkMlYlv.jpg" alt="Serial Experiments Lain" width="150"/>
-</div>
 
 <div align="center">
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
