@@ -85,6 +85,10 @@
 
 <br>
 
+<div align="right">
+  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663165499119/AvciHCnBvhkMlYlv.jpg" alt="Serial Experiments Lain" width="150"/>
+</div>
+
 <div align="center">
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 </div>
