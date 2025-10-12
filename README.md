@@ -1,17 +1,15 @@
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6a0dad"/>
 
 <br>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663165499119/AvciHCnBvhkMlYlv.jpg" alt="Serial Experiments Lain" width="100" style="margin-right: 20px;"/>
-  <div>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
+  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663165499119/AvciHCnBvhkMlYlv.jpg" alt="Serial Experiments Lain" width="100"/>
+  <span>
     <b title="No pain, no gain">`痛みなくして得るものなし`</b>
-    <samp>
-        <br>
+    <samp style="display: block;">
         Hi there! I'm <b>Santosxbk</b>
     </samp>
-  </div>
+  </span>
 </div>
 
 <div align="center" width="100%">
@@ -27,7 +25,7 @@
 <br>
 
 <!-- Lain header aesthetic -->
-<div align="left">
+<div align="side">
   <img width="600" src="https://raw.githubusercontent.com/0xk4y/lain-assets/main/lain-wallpaper.gif" alt="Serial Experiments Lain aesthetic"/>
 </div>
 
