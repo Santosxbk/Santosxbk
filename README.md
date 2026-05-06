@@ -11,7 +11,7 @@
 ## 👨‍💻 Sobre mim
 
 Sou estudante focado em **Análise de Dados, Desenvolvimento Web e Segurança da Informação**.  
-Tenho interesse em construir soluções práticas, dashboards e aplicações que gerem valor real.
+Busco desenvolver soluções práticas, dashboards e aplicações com impacto real.
 
 - 📍 Brasil  
 - 🎓 Ensino Médio + Formação Técnica  
@@ -42,8 +42,8 @@ Tenho interesse em construir soluções práticas, dashboards e aplicações que
 ## 🖥️ Sistemas Operacionais
 
 <p align="center">
+   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
    <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white" />
-   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 </p>
 
 ---
@@ -51,8 +51,8 @@ Tenho interesse em construir soluções práticas, dashboards e aplicações que
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height=180 src="https://github-readme-stats.vercel.app/api?username=Santosxbk&show_icons=true&theme=default"/>
-  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santosxbk&layout=compact&theme=default"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Santosxbk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santosxbk&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
