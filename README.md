@@ -1,51 +1,25 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6a0dad"/>
 
-<br>
+<h1 align="center">Santosxbk</h1>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 15px;">
-  <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663165499119/AvciHCnBvhkMlYlv.jpg" alt="Serial Experiments Lain" width="100"/>
-  <span>
-    <b title="No pain, no gain">`痛みなくして得るものなし`</b>
-    <samp style="display: block;">
-        Hi there! I'm <b>Santosxbk</b>
-    </samp>
-  </span>
-</div>
-
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=6a0dad&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Data+Analysis;I'm+also+into+Cybersecurity;Be+welcome!" alt="Typing SVG"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/santosxbk_💀-black" />
-</div>
-
-<br>
-
-<!-- Lain header aesthetic -->
-<div align="side">
-  <img width="600" src="https://raw.githubusercontent.com/0xk4y/lain-assets/main/lain-wallpaper.gif" alt="Serial Experiments Lain aesthetic"/>
-</div>
-
-<br>
+<p align="center">
+  Estudante de Análise de Dados | Desenvolvimento Web | Cybersecurity
+</p>
 
 ---
 
-<div align="center">
+## 👨‍💻 Sobre mim
 
-🔍 <b>Interesses:</b> OSINT, Engenharia Social, Pentest, Web Dev  
+Sou estudante focado em **Análise de Dados, Desenvolvimento Web e Segurança da Informação**.  
+Tenho interesse em construir soluções práticas, dashboards e aplicações que gerem valor real.
 
-📊 <b>Dashboards e Visualizações com propósito</b>
-
-🎓 <b>Cursando:</b> Ensino Médio + Formação Técnica
-
-🧠 <b>Perfil:</b> Curioso, Analítico, Calmo
+- 📍 Brasil  
+- 🎓 Ensino Médio + Formação Técnica  
+- 🧠 Perfil analítico e orientado a resolução de problemas  
 
 ---
 
-⚙️ <b>Tecnologias e Ferramentas</b>
+## 🚀 Tecnologias e Ferramentas
 
 <p align="center">
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -53,44 +27,34 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-</div>
 </p>
 
 ---
 
-👨‍💻 <b>Sistemas Operacionais</b>
+## 🔍 Áreas de Interesse
+
+- Análise de Dados e Visualização  
+- Desenvolvimento Web  
+- Cybersecurity (OSINT, Pentest básico)  
+
+---
+
+## 🖥️ Sistemas Operacionais
 
 <p align="center">
-   <img src="https://img.shields.io/badge/Zorin_OS-0052B1?style=for-the-badge&logo=zorin&logoColor=white" />
+   <img src="https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white" />
    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
 </p>
 
+---
+
+## 📊 Estatísticas
+
+<div align="center">
+  <img height=180 src="https://github-readme-stats.vercel.app/api?username=Santosxbk&show_icons=true&theme=default"/>
+  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santosxbk&layout=compact&theme=default"/>
 </div>
 
 ---
 
-<br>
-
-<div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=Santosxbk&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santosxbk&layout=compact&font=Iosevka&langs_count=16&theme=midnight-purple"/>
-  <br><br>
-</div>
-
-<br>
-
----
-
-</details>
-
-##
-
-<br>
-
-<div align="center">
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-</div>
-
-<br>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6a0dad&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6a0dad&height=100&section=footer"/>
