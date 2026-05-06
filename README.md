@@ -3,7 +3,7 @@
 <h1 align="center">Santosxbk</h1>
 
 <p align="center">
-  Estudante de Análise de Dados | Desenvolvimento Web | Cybersecurity
+  Estudante | Análise de Dados | Desenvolvimento Web | Cybersecurity
 </p>
 
 ---
@@ -51,8 +51,7 @@ Busco desenvolver soluções práticas, dashboards e aplicações com impacto re
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Santosxbk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santosxbk&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=Santosxbk&theme=tokyonight" />
 </div>
 
 ---
